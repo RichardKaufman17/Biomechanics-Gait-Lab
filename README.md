@@ -6,7 +6,7 @@ This repository contains three datasets in the form of .mat files:
 - **fast03.mat:** Data acquired when the subject fast walked
 - **jogging09.mat:** Data acquired when the subject jogged
 <br />
-Each file is the same format, and contains tables with the force plate and motion capture data
+Each file has the same format, and contains tables with the force plate and motion capture data. Below I describe the tables in each .mat file that are needed for the assignment:
 
 ## Running the Code
 This repository contains one MATLAB scrip to run the analysis: biomehcnaicsGaitLab. To run this script, make sure the three .mat files made available are in the same folder. 
